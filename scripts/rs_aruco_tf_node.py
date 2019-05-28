@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import rospy
-from ae_drone.control.rs_aruco_tf import RsArucoTf
+from ae_drone_control.rs_aruco_tf import RsArucoTf
 
     
 if __name__ == '__main__':
